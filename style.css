@@ -1,0 +1,46 @@
+
+table {
+
+    /* border: solid ;
+    border-radius: 5px; */
+    
+}
+ #btn1 {
+    width: 100px;
+    padding: 25px;
+    font-size: larger;
+  
+    
+}
+#btn2{
+    height: 336px;
+    width: 100px;
+   
+}
+input{
+    width: 220px;
+    
+}
+#input {
+    
+    height: 76px;
+    width: 405px;
+    background-color: rgba(0, 0, 0, 0.801);
+    color: white;
+    font-size: 50px;
+    
+}
+.calcu {
+    border: 1px solid black;
+    width: fit-content;
+    border-radius: 5px;
+}
+#num{
+    width: 100px;
+    padding: 25px;
+    font-size: larger;
+  
+
+}
+
+
